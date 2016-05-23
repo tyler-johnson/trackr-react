@@ -1,5 +1,6 @@
 {
   "name": "trackr-react",
+  "version": "0.0.0-edge",
   "description": "React component with Trackr dependency support.",
   "author": "Tyler Johnson <tyler@tylerjohnson.me>",
   "repository": {
