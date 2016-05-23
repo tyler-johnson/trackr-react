@@ -14,5 +14,5 @@ script:
 after_success:
   - npm run autorelease
 branches:
-  except:
+  only:
     - "master"
